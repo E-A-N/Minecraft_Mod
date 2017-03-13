@@ -1,3 +1,3 @@
 # Minecraft_Mod
-A mod created as part of an effort to learn Java.
+This mod makes chickens tamable, have new glowing texture, and behave differently
 Compatible with Minecraft 1.6.4
